@@ -1,2 +1,5 @@
+SetEnv TZ Europe/Copenhagen
+Options +FollowSymLinks
+RewriteEngine On
 Options -Indexes
 
