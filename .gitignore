@@ -1,0 +1,9 @@
+*.pyc
+*.pid
+*.db
+*.pyo
+*.whoosh
+.DS_Store
+.Python
+*.log
+*.ini
